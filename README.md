@@ -26,6 +26,6 @@ Install Node-RED if you haven't already done so. It is best to go to https://nod
 
 In Node-RED got to Manage Palette and install the module node-red-dashboard.
 
-Install the Node-RED flow from this repository and modify to connect it to your MQTT server. Update the topic emon/MotionMoteTx9/motion to use your nodename from the step above.
+In Node-RED, import the Node-RED flow from this repository and modify to connect it to your MQTT server. Update the topic emon/MotionMoteTx9/motion to use your nodename from the step above.
 
 
